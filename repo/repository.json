@@ -9,7 +9,7 @@
           "artifacts": [
             {
               "url": "data-import-handler-8.8.2.jar",
-              "sig": "w4Hg%2BE2/AUD2kqGPeQMS6CSijqQCp%2BtHYh2bllDr%2Bp4BTuulfwS3irqa3cbhpeP2wS/WHrjE/XTIVp/uUD0KBg=="
+              "sig": "w4Hg+E2/AUD2kqGPeQMS6CSijqQCp+tHYh2bllDr+p4BTuulfwS3irqa3cbhpeP2wS/WHrjE/XTIVp/uUD0KBg=="
             },
             {
               "url": "mariadb-java-client-2.6.0.jar",
